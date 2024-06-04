@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "785312306801",
+    "project_id": "fudeto-f84b4",
+    "storage_bucket": "fudeto-f84b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785312306801:android:35a6f15a311627922fadd0",
+        "android_client_info": {
+          "package_name": "com.webuild.fodetodelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785312306801-g8gicadhoeikq95859v7j07j98kvqrth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxjCSPBEpzo_QKRaJ0jU3kx-H5KeU8upI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785312306801-g8gicadhoeikq95859v7j07j98kvqrth.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785312306801:android:29e45e4eefbf875f2fadd0",
+        "android_client_info": {
+          "package_name": "com.webuild.fodetostore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785312306801-g8gicadhoeikq95859v7j07j98kvqrth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxjCSPBEpzo_QKRaJ0jU3kx-H5KeU8upI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785312306801-g8gicadhoeikq95859v7j07j98kvqrth.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785312306801:android:d67b7d560ab4832d2fadd0",
+        "android_client_info": {
+          "package_name": "com.webuild.fodetouser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785312306801-2n303knmj6kse04h556dv8crg2e1adth.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.webuild.fodetouser",
+            "certificate_hash": "d9a0a3d2253efdef4222e8950a2b5e465955c9fe"
+          }
+        },
+        {
+          "client_id": "785312306801-g8gicadhoeikq95859v7j07j98kvqrth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxjCSPBEpzo_QKRaJ0jU3kx-H5KeU8upI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785312306801-g8gicadhoeikq95859v7j07j98kvqrth.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

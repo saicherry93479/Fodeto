@@ -1,0 +1,11 @@
+workflows:
+  flutter_ios_release:
+    name: Flutter iOS Release
+    max_build_duration: 60
+    environment:
+      flutter: stable
+    scripts:
+      - name: Install dependencies
+        script: flutter pub get
+      - name: Build iOS app
+        script: flutter build ios --release --no-codesign
